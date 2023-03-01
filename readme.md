@@ -15,7 +15,7 @@ To run this script, you need to have the following installed:
 1. Clone this repository to your local machine.
 2. Install the required libraries and the webdriver.
 3. Edit the dummy_data dictionary in the script to provide the desired values for the form fields.
-4. Run the script using the command python form_filler.py.
+4. Run the script using the command python form_filler.py url
 
 ## Additional Functionality
 ***Please note that this script is not yet complete***. There is some additional functionality that we plan to add in the future, including:
