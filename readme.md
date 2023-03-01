@@ -26,3 +26,8 @@ To run this script, you need to have the following installed:
 - Form submition
 - Making it user friendly for no coder
 We will continue to update this script as we add more functionality, so please check back for updates.
+
+## Authors
+
+Mamour DIOP
+
